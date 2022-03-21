@@ -9,3 +9,7 @@ dependencyResolutionManagement {
 rootProject.name = "JetpackStudy"
 include ':app'
 include ':lifecyclestudy'
+include ':viewmodel'
+include ':viewmodelstudy'
+include ':databinding'
+include ':room'
